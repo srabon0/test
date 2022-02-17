@@ -1,1 +1,0 @@
-Hi today we are learnig git . Git is used for source code management.

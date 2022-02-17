@@ -1,0 +1,14 @@
+Hi today we are learnig git . Git is used for source code management.
+it is second commit today.
+
+git init > for initialization
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+git add --all
+git add .
+git add -A 
+++++++++++++++++++      for addd+++++++++++++++
+
+git status >>> folder change
+
+git commit -m "first commit" 
